@@ -1,12 +1,8 @@
 <br clear="both">
 
-<div align="right">
+<div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=euwendelcabral.euwendelcabral&left_color=gray&right_color=purple&left_text=Visualiza%C3%A7%C3%B5es"  />
 </div>
-
-###
-
-<img align="right" height="150" src="https://avatars.githubusercontent.com/u/106700431?v=4"  />
 
 ###
 
@@ -44,6 +40,7 @@
   </a>
 </div>
 
+###
 ###
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/euwendelcabral/euwendelcabral/output/pacman-contribution-graph-dark.svg">
