@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=euwendelcabral.euwendelcabral&left_color=gray&right_color=purple&left_text=👀"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=euwendelcabral.euwendelcabral&left_color=gray&right_color=purple&left_text=Views"  />
 </div>
 
 ###
